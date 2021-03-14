@@ -22,11 +22,11 @@ h2{
 .year {
 	float: center
 	width: 200px;
-	text-align: right;
+	text-align: center;
 }
 #address {
 	height: 500px;
-	float:Center
+	float:right
 	width: 25%;
 	vertical-align: bottom;
 	border:solid 1px #000;
