@@ -34,7 +34,7 @@ h2{
 	text-align: center;
 }
 #content {
-	float:left;
+	float:center;
 	width: 70%;
 	vertical-align: bottom;
 	padding: 5px;
