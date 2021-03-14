@@ -26,7 +26,7 @@ h2{
 }
 #address {
 	height: 500px;
-	float:right;
+	float:left;
 	width: 25%;
 	vertical-align: bottom;
 	border:solid 1px #000;
@@ -34,7 +34,7 @@ h2{
 	text-align: center;
 }
 #content {
-	float:left;
-	width: 80%;
+	float:right;
+	width: 70%;
 	vertical-align: bottom;
 	padding: 5px;
