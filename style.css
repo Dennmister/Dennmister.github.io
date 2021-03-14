@@ -41,10 +41,10 @@ h2{
 }
 footer {
 	clear: both;
-	top-border: think solid #000;
+	top-border:solid thin #000;
 	text-align: center;
 }
 footer span{
-	align:right;
+	align:left;
 	width: 350px;
 }
