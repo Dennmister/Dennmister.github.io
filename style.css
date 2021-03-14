@@ -15,7 +15,7 @@ h2{
 	text-align: center;
 	border-top: solid thin #000;
 	border-bottom: solid thin #000;
-	background-color: #c0c0c0;
+	background-color: #8a4c4c;
 	padding-top: 12px;
 	padding-bottom: 10px;
 }
@@ -26,7 +26,7 @@ h2{
 }
 #address {
 	height: 500px;
-	float:left;
+	float:right;
 	width: 25%;
 	vertical-align: bottom;
 	border:solid 1px #000;
@@ -34,17 +34,7 @@ h2{
 	text-align: center;
 }
 #content {
-	float:right;
-	width: 70%;
+	float:left;
+	width: 80%;
 	vertical-align: bottom;
 	padding: 5px;
-}
-footer {
-	clear: both;
-	top-border: think solid #000;
-	text-align: center;
-}
-footer span{
-	align:right;
-	width: 350px;
-}
